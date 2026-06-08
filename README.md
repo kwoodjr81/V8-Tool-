@@ -147,5 +147,3 @@ If you like this project:
 - Star the repo
 
 - Share it
-
-- Or fork it and build your own version
